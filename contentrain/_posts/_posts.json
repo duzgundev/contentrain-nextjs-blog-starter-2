@@ -79,5 +79,18 @@
       "ID": "6dffe5d9-d6f1-4e2b-a4dc-3dada90ab412",
       "url": "public/assets/1648739507420_cover.jpg"
     }
+  },
+  {
+    "description": "now thats a nice way to describe a blog post",
+    "content": "# BLOGGGGGGG\n\nHow bout me creating this blog post",
+    "ID": "4db092ca-805c-4393-8b2e-cbb4e2924a99",
+    "categories": [],
+    "slug": "wow that's required",
+    "title": "OMGGG my first blog posttt",
+    "tags": [],
+    "coverImage": "",
+    "author": [],
+    "ogImage": [],
+    "createdAt": 1656441595038
   }
 ]
